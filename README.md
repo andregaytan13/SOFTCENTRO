@@ -1,2 +1,2 @@
 # SOFTCENTRO
-Esta es mi paginaweb 
+Esta es mi pagina web 
